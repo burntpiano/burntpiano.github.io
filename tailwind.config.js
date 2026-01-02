@@ -9,6 +9,8 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      sans ['"Liberation Mono"', 'sans-serif'],
   },
   plugins: [],
 }
